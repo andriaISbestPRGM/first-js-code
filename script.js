@@ -1,0 +1,8 @@
+var aboutme = ('hello my name is andrew, am 13 years old and im happy bicuz today my dog didnt ran over my keyboard ' )
+var education = ('i am studying in goal oriented academy and when aruda gives us homework MY DOG APPEARS OUT OF NOWHERE')
+var story = ('then im trying to keep him away from keyboard to save my HOMEWORK')
+var my_future = ('in the future i want to become professional coc...CUCUMBER suc... LICKER and im taking nikoloz filishvili courses to help my dreams come true')
+console.log(aboutme)
+console.log(education)
+console.log(story)
+console.log(my_future)
